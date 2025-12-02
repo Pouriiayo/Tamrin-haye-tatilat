@@ -1,0 +1,14 @@
+E:\Vs projects\Tamrin 1\Tamrin 1\obj\Debug\net10.0\Tamrin 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vs projects\Tamrin 1\Tamrin 1\obj\Debug\net10.0\Tamrin 1.AssemblyInfoInputs.cache
+E:\Vs projects\Tamrin 1\Tamrin 1\obj\Debug\net10.0\Tamrin 1.AssemblyInfo.cs
+E:\Vs projects\Tamrin 1\Tamrin 1\obj\Debug\net10.0\Tamrin 1.csproj.CoreCompileInputs.cache
+E:\Vs projects\Tamrin 1\Tamrin 1\bin\Debug\net10.0\Tamrin 1.exe
+E:\Vs projects\Tamrin 1\Tamrin 1\bin\Debug\net10.0\Tamrin 1.deps.json
+E:\Vs projects\Tamrin 1\Tamrin 1\bin\Debug\net10.0\Tamrin 1.runtimeconfig.json
+E:\Vs projects\Tamrin 1\Tamrin 1\bin\Debug\net10.0\Tamrin 1.dll
+E:\Vs projects\Tamrin 1\Tamrin 1\bin\Debug\net10.0\Tamrin 1.pdb
+E:\Vs projects\Tamrin 1\Tamrin 1\obj\Debug\net10.0\Tamrin 1.dll
+E:\Vs projects\Tamrin 1\Tamrin 1\obj\Debug\net10.0\refint\Tamrin 1.dll
+E:\Vs projects\Tamrin 1\Tamrin 1\obj\Debug\net10.0\Tamrin 1.pdb
+E:\Vs projects\Tamrin 1\Tamrin 1\obj\Debug\net10.0\Tamrin 1.genruntimeconfig.cache
+E:\Vs projects\Tamrin 1\Tamrin 1\obj\Debug\net10.0\ref\Tamrin 1.dll
